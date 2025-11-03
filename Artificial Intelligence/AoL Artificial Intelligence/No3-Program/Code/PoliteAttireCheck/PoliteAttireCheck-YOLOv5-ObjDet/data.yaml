@@ -1,0 +1,4 @@
+train: ./dataset/images
+val: ./dataset/images
+nc: 5
+names: ["Tshirts", "Shorts", "Long Sleeve", "Trousers", "Skirts"]
